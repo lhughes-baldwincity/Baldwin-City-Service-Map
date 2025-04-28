@@ -7,10 +7,10 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "fill": "#bbd3f2",
+        "fill": "#d6f9fe",
         "fill-opacity": 0.7,
         "day": "Monday",
-        "label": "Trash Pickup: Monday (Blue Area)"
+        "label": "Trash pickup: Monday (BLUE)"
       },
       "geometry": {
         "coordinates": [
@@ -47,10 +47,10 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "fill": "#bbd3f2",
+        "fill": "#d0f8fe",
         "fill-opacity": 0.7,
-        "day": "Wednesday",
-        "label": "Trash Pickup: Wednesday (Green Area)"
+        "day": "Monday",
+        "label": "Trash pickup: Monday (BLUE)"
       },
       "geometry": {
         "coordinates": [
@@ -84,13 +84,13 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "#bbd3f2",
+        "fill": "#d1f6fe",
         "fill-opacity": 0.7,
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "day": "Friday",
-        "label": "Trash Pickup: Friday (Yellow Area)"
+        "day": "Monday",
+        "label": "Trash pickup: Monday (BLUE)"
       },
       "geometry": {
         "coordinates": [
@@ -127,8 +127,10 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "fill": "#bbd3f2",
-        "fill-opacity": 0.7
+        "fill": "#d3f6fc",
+        "fill-opacity": 0.7,
+        "day": "Monday",
+        "label": "Trash pickup: Monday (BLUE)"
       },
       "geometry": {
         "coordinates": [
@@ -165,8 +167,10 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "fill": "#bbd3f2",
-        "fill-opacity": 0.7
+        "fill": "#d2f5fd",
+        "fill-opacity": 0.7,
+        "day": "Monday",
+        "label": "Trash pickup: Monday (BLUE)"
       },
       "geometry": {
         "coordinates": [
@@ -203,7 +207,7 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "fill": "#bbd3f2",
+        "fill": "#cff7ff",
         "fill-opacity": 0.7,
         "day": "Monday",
         "label": "Trash pickup: Monday (BLUE ZONE)"
@@ -243,8 +247,10 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 0,
-        "fill": "#bbd3f2",
-        "fill-opacity": 0.7
+        "fill": "#d2f6fb",
+        "fill-opacity": 0.7,
+        "day": "Monday",
+        "label": "Trash pickup: Monday (BLUE)"
       },
       "geometry": {
         "coordinates": [
@@ -282,7 +288,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#46bb72",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Wednesday",
+        "label": "Trash pickup: Wednesday (GREEN)"
       },
       "geometry": {
         "coordinates": [
@@ -320,7 +328,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#46bb72",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Wednesday",
+        "label": "Trash pickup: Wednesday (GREEN)"
       },
       "geometry": {
         "coordinates": [
@@ -358,7 +368,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fdfb6d",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -396,7 +408,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#46bb72",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Wednesday",
+        "label": "Trash pickup: Wednesday (GREEN)"
       },
       "geometry": {
         "coordinates": [
@@ -434,7 +448,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fdfb6c",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -472,7 +488,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fffb70",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -510,7 +528,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fdfb69",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -548,7 +568,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fdfb6f",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -624,7 +646,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fffa73",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -662,7 +686,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fdfb70",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "lable": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
@@ -700,7 +726,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fdfc70",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Trash pickup: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
