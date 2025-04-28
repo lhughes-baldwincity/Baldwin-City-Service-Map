@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#d6f9fe",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -44,9 +41,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#d0f8fe",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -86,9 +80,6 @@
       "properties": {
         "fill": "#d1f6fe",
         "fill-opacity": 0.7,
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "day": "Monday",
         "label": "Trash pickup: Monday (BLUE)"
       },
@@ -124,9 +115,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#d3f6fc",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -164,9 +152,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#d2f5fd",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -204,9 +189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#cff7ff",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -244,9 +226,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#d2f6fb",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -284,9 +263,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#46bb72",
         "fill-opacity": 0.7,
         "day": "Wednesday",
@@ -324,9 +300,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#46bb72",
         "fill-opacity": 0.7,
         "day": "Wednesday",
@@ -364,9 +337,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfb6d",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -404,9 +374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#46bb72",
         "fill-opacity": 0.7,
         "day": "Wednesday",
@@ -444,9 +411,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfb6c",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -484,9 +448,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fffb70",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -524,9 +485,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfb69",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -564,9 +522,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfb6f",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -604,9 +559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fffb6f",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -644,9 +596,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fffa73",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -684,9 +633,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfb70",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -724,9 +670,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfc70",
         "fill-opacity": 0.7,
         "day": "Friday",
