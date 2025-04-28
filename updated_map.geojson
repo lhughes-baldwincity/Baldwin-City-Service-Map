@@ -608,7 +608,9 @@
         "stroke-width": 0,
         "stroke-opacity": 0,
         "fill": "#fffb6f",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "day": "Friday",
+        "label": "Pickup Day: Friday (YELLOW)"
       },
       "geometry": {
         "coordinates": [
