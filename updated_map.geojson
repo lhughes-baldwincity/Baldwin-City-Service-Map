@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#fdfb6c",
         "fill-opacity": 0.7,
         "day": "Friday",
@@ -14,7 +11,7 @@
         "trash": "Friday",
         "bulkPickup": "3rd Wednesday",
         "recycling": "4th Wednesday",
-        "notes": "Bins provided by Green Environmental Services are required; personal bins not accepted."
+        "notes": "Provided bins are required; personal bins not accepted."
       },
       "geometry": {
         "coordinates": [
@@ -124,9 +121,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#46bb72",
         "fill-opacity": 0.7,
         "day": "Wednesday",
@@ -134,7 +128,7 @@
         "trash": "Wednesday",
         "bulkPickup": "2nd Wednesday",
         "recycling": "4th Wednesday",
-        "notes": "Bins provided by Green Environmental Services are required; personal bins not accepted."
+        "notes": "Provided bins are required; personal bins not accepted."
       },
       "geometry": {
         "coordinates": [
@@ -188,9 +182,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 0,
         "fill": "#cff7ff",
         "fill-opacity": 0.7,
         "day": "Monday",
@@ -198,7 +189,7 @@
         "trash": "Monday",
         "bulkPickup": "1st Wednesday",
         "recycling": "4th Wednesday",
-        "notes": "Bins provided by Green Environmental Services are required; personal bins not accepted."
+        "notes": "Provided bins are required; personal bins not accepted."
      },
       "geometry": {
         "coordinates": [
