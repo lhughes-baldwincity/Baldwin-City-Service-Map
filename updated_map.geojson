@@ -11,9 +11,9 @@
         "fill-opacity": 0.7,
         "day": "Friday",
         "color": "YELLOW",
-        "label": "Trash: Friday",
-        "label": "Bulk pickup: 3rd Wednesday",
-        "label": "Recycling (optional): 4th Wednesday",
+        "Trash": "Friday",
+        "Bulk pickup": "3rd Wednesday",
+        "Recycling (optional)": "4th Wednesday",
         "notes": "Bins provided by Green Environmental Services are required; personal bins not accepted."
       },
       "geometry": {
@@ -131,9 +131,9 @@
         "fill-opacity": 0.7,
         "day": "Wednesday",
         "color": "GREEN",
-        "label": "Trash: Wednesday",
-        "label": "Bulk pickup: 2nd Wednesday",
-        "label": "Recycling (optional): 4th Wednesday",
+        "Trash": "Wednesday",
+        "Bulk pickup": "2nd Wednesday",
+        "Recycling (optional)": "4th Wednesday",
         "notes": "Bins provided by Green Environmental Services are required; personal bins not accepted."
       },
       "geometry": {
@@ -195,9 +195,9 @@
         "fill-opacity": 0.7,
         "day": "Monday",
         "color": "BLUE",
-        "label": "Trash: Monday",
-        "label": "Bulk pickup: 1st Wednesday",
-        "label": "Recycling (optional): 4th Wednesday",
+        "Trash": "Monday",
+        "Bulk pickup": "1st Wednesday",
+        "Recycling (optional)": "4th Wednesday",
         "notes": "Bins provided by Green Environmental Services are required; personal bins not accepted."
      },
       "geometry": {
